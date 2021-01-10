@@ -1,5 +1,5 @@
 ---
-title: Firebase Authorization with Google and Facebook login
+title: Firebase Auth with Google or FB credential
 layout: page
 ---
 
